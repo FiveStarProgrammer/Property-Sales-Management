@@ -1,4 +1,5 @@
-Property Sales Management Project
+Property Sales Management Project:
+
 Introduction:
 
 The Property Sales Management Project is a web application built using Django, 
